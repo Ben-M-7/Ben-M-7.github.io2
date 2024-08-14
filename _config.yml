@@ -19,7 +19,7 @@
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://Ben-M-7.github.io2 # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl :/EditA.I. # does not include hostname
+baseurl : /edit # does not include hostname
 title   : EDIT A.I.
 description: > # this means to ignore newlines until "Language & timezone"
   Helping underserved communites, etc..
@@ -39,7 +39,7 @@ author:
   url       : Ben-M-7.github.io2 
   avatar    : data:image/svg+xml,<svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22><text%20y=%22.9em%22%20font-size=%2290%22>%E2%9A%95%EF%B8%8F</text></svg> # path or url of avatar image (square)
   bio       : Bio
-  email     :joshua.j.levy@dartmouth.edu 
+  email     : joshua.j.levy@dartmouth.edu 
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
